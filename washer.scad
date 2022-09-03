@@ -1,5 +1,5 @@
-internalDiameter = 3.1;
-externalDiameter = 8;
+internalDiameter = 3.4;
+externalDiameter = 8.3;
 thickness = 0.8;
 
 linear_extrude(thickness) {
